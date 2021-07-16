@@ -1,8 +1,7 @@
-## CURSO DE CIÊNCIA DA COMPUTAÇÃO - UNIVERSIDADE FEDERAL DO TOCANTINS
 ## Disciplina de Projeto Graduação I e II
-### Orientador: Prof. Dr Ary Henrique de Morais
-### Coorientadora: Prof. Dra Glenda Michele Botelho
-### Especialista: Prof. Dra Paula Benevides de Morais
+### Orientador: Prof. Drº Ary Henrique de Morais
+### Coorientadora: Prof. Drª Glenda Michele Botelho
+### Especialista: Prof. Drª Paula Benevides de Morais
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -27,8 +26,8 @@
   <p align="center">
     Uma parceria Instituto de Computação Aplicada, Fábrica de Software e Laboratório de Microbiologia UFT
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
+    <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a> -->
+    <!-- <br /> -->
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
@@ -51,10 +50,10 @@ O principal objetivo deste projeto é realizar o processo de descoberta de conhe
 4. Aplicar técnicas de Descoberta de Conhecimento em Bases de Dados, na base de fungos;
 
 ### Hipóteses:
-**H1:** É possível estabelecer relações entre fungos coletados na mesma localidade? E entre fungos coletados em localidades diferentes, seria possível caracterizar essa diferenças e/ou semelhanças?
-**H2:** É possível agrupar esses fungos por alguma característica semelhante?
-**H3:** A partir das características espaciais e fisiológicas dos fungos, é possível verifcar comportamentos semelhantes em reações a determinados compostos?
-**H4:** Sobre a diversidade dos fungos catalogados pelo LAMBIO/UFT, quantos/quais destes ainda não possuem registro em coleções internacionais de cultura? Quais características proeminentes destes e como correlacioná-los ao meio em que vivem?
+* **H1:** É possível estabelecer relações entre fungos coletados na mesma localidade? E entre fungos coletados em localidades diferentes, seria possível caracterizar essa diferenças e/ou semelhanças?
+* **H2:** É possível agrupar esses fungos por alguma característica semelhante?
+* **H3:** A partir das características espaciais e fisiológicas dos fungos, é possível verifcar comportamentos semelhantes em reações a determinados compostos?
+* **H4:** Sobre a diversidade dos fungos catalogados pelo LAMBIO/UFT, quantos/quais destes ainda não possuem registro em coleções internacionais de cultura? Quais características proeminentes destes e como correlacioná-los ao meio em que vivem?
 
 Sobre o projeto e sua estrutura:
 Alguns dos arquivos *ipynb* existem apenas em função de testar algumas funcionalidades das bibliotecas utilizadas nesse Trabalho.
