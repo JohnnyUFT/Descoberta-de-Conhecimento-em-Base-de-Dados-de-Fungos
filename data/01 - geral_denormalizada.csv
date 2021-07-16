@@ -1,0 +1,769 @@
+id,ano,ccr,amostra,coleta,latitude,longitude,data_coleta,localidade,equipe,substrato,nome_cientifico,cidade,uf
+54,2015,8553,JHF.BA.001.003,JHF.BA.001,-14.717.639,-52.363.527,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+59,2015,8558,JHF.BA.001.001,JHF.BA.001,-14.717.639,-52.363.527,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+60,2015,8559,JHF.BA.001.001,JHF.BA.001,-14.717.639,-52.363.527,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+61,2015,8560,JHF.BA.001.002,JHF.BA.001,-14.717.639,-52.363.527,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+63,2015,8562,JHF.BA.002.001,JHF.BA.002,-14.716.977,-52.364.035,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+62,2015,8561,JHF.BA.002.001,JHF.BA.002,-14.716.977,-52.364.035,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+64,2015,8563,JHF.BA.002.002,JHF.BA.002,-14.716.977,-52.364.035,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+65,2015,8564,JHF.BA.002.003,JHF.BA.002,-14.716.977,-52.364.035,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+66,2015,8565,JHF.BA.002.004,JHF.BA.002,-14.716.977,-52.364.035,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+55,2015,8554,JHF.BA.003.001,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+56,2015,8555,JHF.BA.003.001,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+57,2015,8556,JHF.BA.003.002,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+67,2015,8566,JHF.BA.003.003,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+68,2015,8567,JHF.BA.003.003,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+69,2015,8568,JHF.BA.003.003,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+70,2015,8569,JHF.BA.003.003,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+71,2015,8570,JHF.BA.003.003,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+72,2015,8571,JHF.BA.003.004,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+73,2015,8572,JHF.BA.003.004,JHF.BA.003,-14.716.787,-52.364.523,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+38,2015,8537,JHF.BA.004.001,JHF.BA.004,-14.718.120,-52.362.947,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+39,2015,8538,JHF.BA.005.001,JHF.BA.005,-14.718.320,-52.362.337,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+58,2015,8557,JHF.BA.006.001,JHF.BA.006,-14.718.401,-52.361.959,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+40,2015,8539,JHF.BA.007.001,JHF.BA.007,-14.718.543,-52.361.896,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+42,2015,8541,JHF.BA.008.002,JHF.BA.008,-14.718.548,-52.361.735,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+43,2015,8542,JHF.BA.008.003,JHF.BA.008,-14.718.548,-52.361.735,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+41,2015,8540,JHF.BA.008.001,JHF.BA.008,-14.718.548,-52.361.735,2015-08-13,Córrego Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+2,2015,8501,JHF.BU.001.002,JHF.BU.001,-14.681.193,-52.367.863,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+3,2015,8502,JHF.BU.001.002,JHF.BU.001,-14.681.193,-52.367.863,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+1,2015,8500,JHF.BU.001.001,JHF.BU.001,-14.681.193,-52.367.863,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+31,2015,8530,JHF.BU.002.001,JHF.BU.002,-14.681.273,-52.367.834,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+32,2015,8531,JHF.BU.002.001,JHF.BU.002,-14.681.273,-52.367.834,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+30,2015,8529,JHF.BU.002.001,JHF.BU.002,-14.681.273,-52.367.834,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+33,2015,8532,JHF.BU.002.002,JHF.BU.002,-14.681.273,-52.367.834,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+34,2015,8533,JHF.BU.002.002,JHF.BU.002,-14.681.273,-52.367.834,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+35,2015,8534,JHF.BU.002.003,JHF.BU.002,-14.681.273,-52.367.834,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+36,2015,8535,JHF.BU.002.003,JHF.BU.002,-14.681.273,-52.367.834,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+37,2015,8536,JHF.BU.002.004,JHF.BU.002,-14.681.273,-52.367.834,2015-08-10,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+4,2015,8503,JHF.BU.003.001,JHF.BU.003,-14.681.243,-52.367.831,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+6,2015,8505,JHF.BU.003.003,JHF.BU.003,-14.681.243,-52.367.831,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+7,2015,8506,JHF.BU.003.003,JHF.BU.003,-14.681.243,-52.367.831,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+8,2015,8507,JHF.BU.003.004,JHF.BU.003,-14.681.243,-52.367.831,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+9,2015,8508,JHF.BU.003.005,JHF.BU.003,-14.681.243,-52.367.831,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+5,2015,8504,JHF.BU.003.002,JHF.BU.003,-14.681.243,-52.367.831,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+10,2015,8509,JHF.BU.004.001,JHF.BU.004,-14.681.175,-52.367.956,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+11,2015,8510,JHF.BU.004.001,JHF.BU.004,-14.681.175,-52.367.956,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+13,2015,8512,JHF.BU.005.001,JHF.BU.005,-14.681.177,-52.368.049,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+12,2015,8511,JHF.BU.005.001,JHF.BU.005,-14.681.177,-52.368.049,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+14,2015,8513,JHF.BU.005.002,JHF.BU.005,-14.681.177,-52.368.049,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+15,2015,8514,JHF.BU.005.002,JHF.BU.005,-14.681.177,-52.368.049,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+16,2015,8515,JHF.BU.006.001,JHF.BU.006,-14.681.129,-52.368.103,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+17,2015,8516,JHF.BU.006.001,JHF.BU.006,-14.681.129,-52.368.103,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+18,2015,8517,JHF.BU.006.002,JHF.BU.006,-14.681.129,-52.368.103,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+19,2015,8518,JHF.BU.006.002,JHF.BU.006,-14.681.129,-52.368.103,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+20,2015,8519,JHF.BU.007.001,JHF.BU.007,-14.681.300,-52.368.194,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+21,2015,8520,JHF.BU.007.001,JHF.BU.007,-14.681.300,-52.368.194,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+22,2015,8521,JHF.BU.007.002,JHF.BU.007,-14.681.300,-52.368.194,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+23,2015,8522,JHF.BU.008.001,JHF.BU.008,-14.681.421,-52.367.674,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+24,2015,8523,JHF.BU.008.002,JHF.BU.008,-14.681.421,-52.367.674,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+25,2015,8524,JHF.BU.008.002,JHF.BU.008,-14.681.421,-52.367.674,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+26,2015,8525,JHF.BU.008.002,JHF.BU.008,-14.681.421,-52.367.674,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+28,2015,8527,JHF.BU.008.002,JHF.BU.008,-14.681.421,-52.367.674,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+29,2015,8528,JHF.BU.008.002,JHF.BU.008,-14.681.421,-52.367.674,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+27,2015,8526,JHF.BU.008.002,JHF.BU.008,-14.681.421,-52.367.674,2015-08-14,Fazenda São Francisco,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+51,2015,8550,JHF.PB.001.001,JHF.PB.001,-14.688.213,-52.341.981,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+52,2015,8551,JHF.PB.001.002,JHF.PB.001,-14.688.213,-52.341.981,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+53,2015,8552,JHF.PB.001.002,JHF.PB.001,-14.688.213,-52.341.981,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+75,2015,8574,JHF.PB.002.001,JHF.PB.002,-14.688.202,-52.341.848,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+76,2015,8575,JHF.PB.002.001,JHF.PB.002,-14.688.202,-52.341.848,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+44,2015,8543,JHF.PB.003.001,JHF.PB.003,-14.688.268,-52.341.863,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+45,2015,8544,JHF.PB.004.001,JHF.PB.004,-14.688.278,-52.341.703,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+46,2015,8545,JHF.PB.004.001,JHF.PB.004,-14.688.278,-52.341.703,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+47,2015,8546,JHF.PB.004.002,JHF.PB.004,-14.688.278,-52.341.703,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+48,2015,8547,JHF.PB.004.002,JHF.PB.004,-14.688.278,-52.341.703,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+49,2015,8548,JHF.PB.004.003,JHF.PB.004,-14.688.278,-52.341.703,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+50,2015,8549,JHF.PB.004.004,JHF.PB.004,-14.688.278,-52.341.703,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+74,2015,8573,JHF.PB.005.001,JHF.PB.005,-14.688.683,-52.341.708,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+79,2015,8578,JHF.PB.006.001,JHF.PB.006,-14.688.414,-52.341.949,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+80,2015,8579,JHF.PB.006.001,JHF.PB.006,-14.688.414,-52.341.949,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+81,2015,8580,JHF.PB.006.002,JHF.PB.006,-14.688.414,-52.341.949,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+77,2015,8576,JHF.PB.007.001,JHF.PB.007,-14.688.211,-52.342.028,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+78,2015,8577,JHF.PB.007.001,JHF.PB.007,-14.688.211,-52.342.028,2015-08-11,Parque Bacaba,Jheferson Paulino,Fruto de Buriti,Mauritia flexuosa,Nova Xavantina,MT
+82,2014,6555,ANA.CAN.001.001,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+83,2014,6817,ANA.CAN.001.001,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+84,2014,6948,ANA.CAN.001.001,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+86,2014,6650,ANA.CAN.001.002,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+87,2014,7799,ANA.CAN.001.002,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+88,2014,7943,ANA.CAN.001.002,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+89,2014,7945,ANA.CAN.001.002,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+85,2014,6648,ANA.CAN.001.002,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+101,2014,6556,ANA.CAN.001.003,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+102,2014,6891,ANA.CAN.001.004,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+103,2014,7774,ANA.CAN.001.004,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+104,2014,7777,ANA.CAN.001.004,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+105,2014,7833,ANA.CAN.001.004,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+106,2014,7845,ANA.CAN.001.004,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+117,2014,6515,ANA.CAN.001.005,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+118,2014,6545,ANA.CAN.001.005,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+119,2014,6809,ANA.CAN.001.005,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+132,2014,7818,ANA.CAN.001.007,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+133,2014,7870,ANA.CAN.001.007,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+134,2014,6716,ANA.CAN.001.008,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+135,2014,6717,ANA.CAN.001.008,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+136,2014,6723,ANA.CAN.001.008,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+137,2014,6888,ANA.CAN.001.008,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+138,2014,6890,ANA.CAN.001.008,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+139,2014,6893,ANA.CAN.001.008,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+140,2014,7052,ANA.CAN.001.008,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+141,2014,7862,ANA.CAN.001.008,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+142,2014,7865,ANA.CAN.001.008,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+143,2014,7031,ANA.CAN.001.009,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+144,2014,7842,ANA.CAN.001.009,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+157,2014,6577,ANA.CAN.001.010,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+158,2014,7769,ANA.CAN.001.011,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+159,2014,7776,ANA.CAN.001.011,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+160,2014,6800,ANA.CAN.001.012,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+170,2014,6576,ANA.CAN.001.013,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+171,2014,7766,ANA.CAN.001.013,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+172,2014,7782,ANA.CAN.001.014,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+173,2014,7946,ANA.CAN.001.014,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+174,2014,7959,ANA.CAN.001.014,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+181,2014,6575,ANA.CAN.001.015,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+182,2014,6725,ANA.CAN.001.016,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+183,2014,6881,ANA.CAN.001.016,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+184,2014,7835,ANA.CAN.001.016,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+185,2014,7836,ANA.CAN.001.016,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+186,2014,6978,ANA.CAN.001.017,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+205,2014,7846,ANA.CAN.001.018,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+206,2014,7989,ANA.CAN.001.018,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+204,2014,6594,ANA.CAN.001.018,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+223,2014,6582,ANA.CAN.001.020,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+224,2014,7844,ANA.CAN.001.020,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+225,2014,6795,ANA.CAN.001.021,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+226,2014,6887,ANA.CAN.001.021,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+227,2014,7053,ANA.CAN.001.021,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+228,2014,7765,ANA.CAN.001.021,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+229,2014,7951,ANA.CAN.001.021,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+230,2014,6996,ANA.CAN.001.022,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+239,2014,6584,ANA.CAN.001.023,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+245,2014,6585,ANA.CAN.001.025,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+253,2014,6867,ANA.CAN.001.027,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+254,2014,6990,ANA.CAN.001.027,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+268,2014,6808,ANA.CAN.001.028,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+269,2014,6568,ANA.CAN.001.029,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+270,2014,6644,ANA.CAN.001.029,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+271,2014,6645,ANA.CAN.001.029,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+272,2014,6705,ANA.CAN.001.029,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+273,2014,7840,ANA.CAN.001.029,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+281,2014,6595,ANA.CAN.001.031,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+282,2014,6700,ANA.CAN.001.031,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+283,2014,6702,ANA.CAN.001.031,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+288,2014,6870,ANA.CAN.001.033,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+297,2014,6591,ANA.CAN.001.034,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+298,2014,6720,ANA.CAN.001.034,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+300,2014,6753,ANA.CAN.001.035,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+299,2014,6745,ANA.CAN.001.035,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+301,2014,7019,ANA.CAN.001.036,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+312,2014,7910,ANA.CAN.001.037,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+313,2014,6732,ANA.CAN.001.037,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+314,2014,6754,ANA.CAN.001.037,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+315,2014,6761,ANA.CAN.001.037,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+316,2014,6784,ANA.CAN.001.037,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+317,2014,6872,ANA.CAN.001.038,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+330,2014,6578,ANA.CAN.001.039,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+331,2014,6581,ANA.CAN.001.039,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+332,2014,6706,ANA.CAN.001.039,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+333,2014,7784,ANA.CAN.001.039,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+334,2014,6742,ANA.CAN.001.040,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+335,2014,6837,ANA.CAN.001.040,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+336,2014,6849,ANA.CAN.001.040,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+347,2014,6571,ANA.CAN.001.041,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+348,2014,6610,ANA.CAN.001.042,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+349,2014,6846,ANA.CAN.001.042,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+363,2014,6588,ANA.CAN.001.045,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+364,2014,7949,ANA.CAN.001.045,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+365,2014,6608,ANA.CAN.001.046,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+366,2014,6609,ANA.CAN.001.046,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+367,2014,6759,ANA.CAN.001.046,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+380,2014,7761,ANA.CAN.001.047,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+381,2014,6615,ANA.CAN.001.048,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+382,2014,6762,ANA.CAN.001.048,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+385,2014,7953,ANA.CAN.001.050,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+396,2014,7332,ANA.CAN.001.051,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+397,2014,6740,ANA.CAN.001.052,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+407,2014,6564,ANA.CAN.001.054,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+408,2014,6598,ANA.CAN.001.054,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+409,2014,7838,ANA.CAN.001.054,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+422,2014,6760,ANA.CAN.001.057,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+423,2014,7179,ANA.CAN.001.058,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+424,2014,7299,ANA.CAN.001.058,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+425,2014,7301,ANA.CAN.001.058,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+120,2014,6889,ANA.CAN.001.006,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+121,2014,6944,ANA.CAN.001.006,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+122,2014,7779,ANA.CAN.001.006,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+123,2014,7988,ANA.CAN.001.006,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+207,2014,7006,ANA.CAN.001.019,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+208,2014,7021,ANA.CAN.001.019,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+240,2014,6794,ANA.CAN.001.024,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+246,2014,6606,ANA.CAN.001.026,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+247,2014,6607,ANA.CAN.001.026,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+248,2014,6737,ANA.CAN.001.026,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+249,2014,6782,ANA.CAN.001.026,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+250,2014,6793,ANA.CAN.001.026,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+251,2014,6796,ANA.CAN.001.026,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+252,2014,6797,ANA.CAN.001.026,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+274,2014,6622,ANA.CAN.001.030,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+284,2014,6746,ANA.CAN.001.032,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+285,2014,6768,ANA.CAN.001.032,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+286,2014,6790,ANA.CAN.001.032,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+287,2014,6792,ANA.CAN.001.032,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+350,2014,6986,ANA.CAN.001.043,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+362,2014,6982,ANA.CAN.001.044,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+383,2014,7328,ANA.CAN.001.049,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+384,2014,7333,ANA.CAN.001.049,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+435,2014,6536,ANA.CAN.001.059,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+436,2014,6822,ANA.CAN.001.059,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+437,2014,6828,ANA.CAN.001.059,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+455,2014,6647,ANA.CAN.001.061,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+456,2014,6726,ANA.CAN.001.061,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+457,2014,7798,ANA.CAN.001.061,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+458,2014,6623,ANA.CAN.001.062,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+459,2014,6624,ANA.CAN.001.062,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+460,2014,6757,ANA.CAN.001.062,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+474,2014,6626,ANA.CAN.001.063,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+475,2014,7800,ANA.CAN.001.063,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+477,2014,6567,ANA.CAN.001.065,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+478,2014,6651,ANA.CAN.001.065,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+479,2014,7785,ANA.CAN.001.065,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+480,2014,7839,ANA.CAN.001.065,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+481,2014,7869,ANA.CAN.001.065,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+488,2014,6539,ANA.CAN.001.066,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+489,2014,6833,ANA.CAN.001.066,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+490,2014,7767,ANA.CAN.001.066,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+492,2014,6776,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+493,2014,6882,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+494,2014,6884,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+495,2014,6894,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+496,2014,6902,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+497,2014,6942,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+498,2014,7764,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+499,2014,7786,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+500,2014,7864,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+501,2014,7868,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+491,2014,6649,ANA.CAN.001.067,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+511,2014,6554,ANA.CAN.001.068,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+512,2014,6815,ANA.CAN.001.068,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+513,2014,6885,ANA.CAN.001.069,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+514,2014,6886,ANA.CAN.001.069,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+515,2014,6892,ANA.CAN.001.069,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+516,2014,6895,ANA.CAN.001.069,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+528,2014,6901,ANA.CAN.001.071,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+529,2014,7775,ANA.CAN.001.071,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+530,2014,7778,ANA.CAN.001.071,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+531,2014,7781,ANA.CAN.001.071,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+532,2014,7832,ANA.CAN.001.071,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+533,2014,7834,ANA.CAN.001.071,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+534,2014,7837,ANA.CAN.001.071,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+535,2014,7841,ANA.CAN.001.071,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+536,2014,7904,ANA.CAN.001.071,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+545,2014,6807,ANA.CAN.001.072,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+564,2014,6811,ANA.CAN.001.074,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+565,2014,6824,ANA.CAN.001.074,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+566,2014,6831,ANA.CAN.001.074,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+567,2014,6883,ANA.CAN.001.075,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+568,2014,7944,ANA.CAN.001.075,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+398,2014,6614,ANA.CAN.001.053,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+399,2014,6750,ANA.CAN.001.053,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+410,2014,6747,ANA.CAN.001.055,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+420,2014,6586,ANA.CAN.001.056,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+421,2014,7843,ANA.CAN.001.056,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+438,2014,6566,ANA.CAN.001.060,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+439,2014,6580,ANA.CAN.001.060,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+440,2014,6587,ANA.CAN.001.060,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+441,2014,6593,ANA.CAN.001.060,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+442,2014,7783,ANA.CAN.001.060,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+443,2014,7867,ANA.CAN.001.060,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+476,2014,6819,ANA.CAN.001.064,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+527,2014,6820,ANA.CAN.001.070,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+546,2014,7768,ANA.CAN.001.073,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+547,2014,7780,ANA.CAN.001.073,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+548,2014,7909,ANA.CAN.001.073,ANA.CAN.001,-9.978.136,-5.004.615,2014-01-24,Centro de Pesquisa Canguçú (Pium-TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Pium,TO
+124,2014,7188,ANA.TAG.001.003,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+147,2014,7049,ANA.TAG.001.005,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+161,2014,7156,ANA.TAG.001.006,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+162,2014,7266,ANA.TAG.001.006,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+163,2014,7356,ANA.TAG.001.006,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+188,2014,7363,ANA.TAG.001.009,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+187,2014,7281,ANA.TAG.001.009,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+189,2014,7381,ANA.TAG.001.009,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+209,2014,7189,ANA.TAG.001.011,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+210,2014,7364,ANA.TAG.001.011,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+211,2014,7382,ANA.TAG.001.011,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+231,2014,7191,ANA.TAG.001.012,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+232,2014,7275,ANA.TAG.001.012,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+241,2014,7353,ANA.TAG.001.013,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+255,2014,7254,ANA.TAG.001.014,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+256,2014,7355,ANA.TAG.001.014,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+257,2014,7365,ANA.TAG.001.014,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+258,2014,7921,ANA.TAG.001.015,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+275,2014,7192,ANA.TAG.001.016,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+289,2014,7098,ANA.TAG.001.017,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+290,2014,7153,ANA.TAG.001.017,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+291,2014,7158,ANA.TAG.001.017,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+292,2014,7268,ANA.TAG.001.017,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+302,2014,7249,ANA.TAG.001.018,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+303,2014,7258,ANA.TAG.001.018,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+337,2014,7236,ANA.TAG.001.020,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+338,2014,7384,ANA.TAG.001.020,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+351,2014,7154,ANA.TAG.001.021,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+352,2014,7157,ANA.TAG.001.021,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+353,2014,7240,ANA.TAG.001.021,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+354,2014,7387,ANA.TAG.001.021,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+355,2014,7920,ANA.TAG.001.022,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+356,2014,7954,ANA.TAG.001.022,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+368,2014,7160,ANA.TAG.001.023,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+369,2014,7383,ANA.TAG.001.023,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+370,2014,7947,ANA.TAG.001.024,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+371,2014,7966,ANA.TAG.001.024,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+386,2014,7238,ANA.TAG.001.025,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+387,2014,7251,ANA.TAG.001.025,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+388,2014,7252,ANA.TAG.001.025,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+389,2014,7962,ANA.TAG.001.026,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+400,2014,7917,ANA.TAG.001.027,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+401,2014,7919,ANA.TAG.001.027,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+402,2014,7950,ANA.TAG.001.027,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+403,2014,7964,ANA.TAG.001.028,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+411,2014,7054,ANA.TAG.001.029,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+90,2014,7263,ANA.TAG.001.001,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+91,2014,7195,ANA.TAG.001.001,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+107,2014,7271,ANA.TAG.001.002,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+145,2014,7242,ANA.TAG.001.004,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+146,2014,7358,ANA.TAG.001.004,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+175,2014,7366,ANA.TAG.001.007,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+176,2014,7196,ANA.TAG.001.008,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+177,2014,7198,ANA.TAG.001.008,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+190,2014,6950,ANA.TAG.001.010,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+191,2014,6957,ANA.TAG.001.010,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+318,2014,7159,ANA.TAG.001.019,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+319,2014,7248,ANA.TAG.001.019,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+320,2014,7272,ANA.TAG.001.019,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+321,2014,7359,ANA.TAG.001.019,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+444,2014,7099,ANA.TAG.001.031,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+445,2014,7255,ANA.TAG.001.031,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+461,2014,7916,ANA.TAG.001.032,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+462,2014,7918,ANA.TAG.001.032,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+463,2014,7952,ANA.TAG.001.032,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+482,2014,7260,ANA.TAG.001.033,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+502,2014,7259,ANA.TAG.001.034,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+503,2014,7264,ANA.TAG.001.034,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+537,2014,7235,ANA.TAG.001.037,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+538,2014,7057,ANA.TAG.001.038,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+549,2014,7269,ANA.TAG.001.039,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+550,2014,7277,ANA.TAG.001.039,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+551,2014,7197,ANA.TAG.001.040,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+552,2014,7199,ANA.TAG.001.040,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+569,2014,7278,ANA.TAG.001.041,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+426,2014,7194,ANA.TAG.001.030,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+427,2014,7200,ANA.TAG.001.030,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+504,2014,7193,ANA.TAG.001.035,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+505,2014,7968,ANA.TAG.001.035,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+517,2014,7162,ANA.TAG.001.036,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+518,2014,7257,ANA.TAG.001.036,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+519,2014,7362,ANA.TAG.001.036,ANA.TAG.001,-12.392.825,-46.418.475,2014-01-31,Municipio de Taguatinga – TO,Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Taguatinga,TO
+92,2014,7389,ANA.TAQ.001.001,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+93,2014,7390,ANA.TAQ.001.001,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+94,2014,7391,ANA.TAQ.001.001,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+95,2014,7392,ANA.TAQ.001.001,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+96,2014,7393,ANA.TAQ.001.001,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+97,2014,7394,ANA.TAQ.001.001,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+98,2014,7802,ANA.TAQ.001.002,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+99,2014,7803,ANA.TAQ.001.002,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+100,2014,7804,ANA.TAQ.001.002,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+110,2014,7537,ANA.TAQ.001.003,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+108,2014,7535,ANA.TAQ.001.003,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+109,2014,7536,ANA.TAQ.001.003,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+111,2014,7823,ANA.TAQ.001.004,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+112,2014,7824,ANA.TAQ.001.004,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+113,2014,7825,ANA.TAQ.001.004,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+114,2014,7826,ANA.TAQ.001.004,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+115,2014,7934,ANA.TAQ.001.005,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+116,2014,7935,ANA.TAQ.001.005,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+125,2014,7538,ANA.TAQ.001.006,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+126,2014,7539,ANA.TAQ.001.006,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+127,2014,7827,ANA.TAQ.001.007,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+128,2014,7847,ANA.TAQ.001.007,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+129,2014,7848,ANA.TAQ.001.007,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+131,2014,8023,ANA.TAQ.001.009,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+148,2014,7540,ANA.TAQ.001.010,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+149,2014,7541,ANA.TAQ.001.010,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+150,2014,7542,ANA.TAQ.001.010,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+151,2014,7543,ANA.TAQ.001.010,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+152,2014,7546,ANA.TAQ.001.010,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+153,2014,7849,ANA.TAQ.001.011,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+154,2014,7850,ANA.TAQ.001.011,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+167,2014,7939,ANA.TAQ.001.014,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+168,2014,7940,ANA.TAQ.001.014,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+169,2014,8024,ANA.TAQ.001.015,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+178,2014,7550,ANA.TAQ.001.016,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+179,2014,7551,ANA.TAQ.001.016,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+192,2014,7552,ANA.TAQ.001.018,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+193,2014,7553,ANA.TAQ.001.018,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+194,2014,7554,ANA.TAQ.001.018,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+195,2014,7555,ANA.TAQ.001.018,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+196,2014,7556,ANA.TAQ.001.018,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+197,2014,7557,ANA.TAQ.001.018,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+198,2014,7851,ANA.TAQ.001.019,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+199,2014,7852,ANA.TAQ.001.019,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+200,2014,7853,ANA.TAQ.001.019,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+201,2014,7942,ANA.TAQ.001.020,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+202,2014,7956,ANA.TAQ.001.020,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+203,2014,7957,ANA.TAQ.001.020,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+212,2014,7558,ANA.TAQ.001.021,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+213,2014,7587,ANA.TAQ.001.021,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+214,2014,7588,ANA.TAQ.001.021,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+215,2014,7854,ANA.TAQ.001.022,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+216,2014,7855,ANA.TAQ.001.022,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+217,2014,7856,ANA.TAQ.001.022,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+218,2014,7857,ANA.TAQ.001.022,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+219,2014,7858,ANA.TAQ.001.022,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+220,2014,7859,ANA.TAQ.001.022,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+235,2014,7860,ANA.TAQ.001.025,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+236,2014,7861,ANA.TAQ.001.025,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+237,2014,7871,ANA.TAQ.001.025,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+238,2014,7963,ANA.TAQ.001.026,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+242,2014,7719,ANA.TAQ.001.027,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+243,2014,7720,ANA.TAQ.001.027,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+244,2014,7965,ANA.TAQ.001.028,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+259,2014,7724,ANA.TAQ.001.029,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+260,2014,7725,ANA.TAQ.001.029,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+261,2014,7726,ANA.TAQ.001.029,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+267,2014,8026,ANA.TAQ.001.031,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+276,2014,7395,ANA.TAQ.001.032,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+277,2014,7397,ANA.TAQ.001.032,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+278,2014,7398,ANA.TAQ.001.032,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+279,2014,7805,ANA.TAQ.001.033,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+280,2014,7806,ANA.TAQ.001.033,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+293,2014,7729,ANA.TAQ.001.034,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+294,2014,7730,ANA.TAQ.001.034,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+306,2014,7872,ANA.TAQ.001.037,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+307,2014,7873,ANA.TAQ.001.037,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+308,2014,7876,ANA.TAQ.001.037,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+309,2014,7877,ANA.TAQ.001.037,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+310,2014,7878,ANA.TAQ.001.037,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+311,2014,7977,ANA.TAQ.001.038,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+322,2014,7735,ANA.TAQ.001.039,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+323,2014,7737,ANA.TAQ.001.039,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+324,2014,7738,ANA.TAQ.001.039,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+325,2014,7980,ANA.TAQ.001.040,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+326,2014,8027,ANA.TAQ.001.041,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+339,2014,7739,ANA.TAQ.001.043,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+344,2014,7982,ANA.TAQ.001.045,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+345,2014,7983,ANA.TAQ.001.045,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+346,2014,7984,ANA.TAQ.001.045,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+357,2014,7742,ANA.TAQ.001.046,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+358,2014,7743,ANA.TAQ.001.046,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+359,2014,7744,ANA.TAQ.001.046,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+360,2014,7985,ANA.TAQ.001.047,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+361,2014,7987,ANA.TAQ.001.047,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+376,2014,7890,ANA.TAQ.001.049,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+377,2014,7891,ANA.TAQ.001.049,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+378,2014,7892,ANA.TAQ.001.049,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+379,2014,7893,ANA.TAQ.001.049,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+390,2014,7751,ANA.TAQ.001.050,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+391,2014,7752,ANA.TAQ.001.050,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+395,2014,7991,ANA.TAQ.001.052,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+404,2014,7992,ANA.TAQ.001.053,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+405,2014,7993,ANA.TAQ.001.053,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+406,2014,7995,ANA.TAQ.001.053,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+412,2014,7756,ANA.TAQ.001.054,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+413,2014,7760,ANA.TAQ.001.054,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+414,2014,7770,ANA.TAQ.001.054,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+415,2014,7898,ANA.TAQ.001.055,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+416,2014,7899,ANA.TAQ.001.055,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+417,2014,7900,ANA.TAQ.001.055,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+418,2014,7901,ANA.TAQ.001.055,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+419,2014,7996,ANA.TAQ.001.056,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+130,2014,7936,ANA.TAQ.001.008,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+155,2014,7937,ANA.TAQ.001.012,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+156,2014,7938,ANA.TAQ.001.012,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+164,2014,7547,ANA.TAQ.001.013,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+165,2014,7548,ANA.TAQ.001.013,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+166,2014,7549,ANA.TAQ.001.013,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+180,2014,7941,ANA.TAQ.001.017,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+221,2014,7958,ANA.TAQ.001.023,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+222,2014,7961,ANA.TAQ.001.023,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+233,2014,7589,ANA.TAQ.001.024,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+234,2014,7590,ANA.TAQ.001.024,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+262,2014,7967,ANA.TAQ.001.030,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+263,2014,7969,ANA.TAQ.001.030,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+264,2014,7970,ANA.TAQ.001.030,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+265,2014,7971,ANA.TAQ.001.030,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+266,2014,7972,ANA.TAQ.001.030,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+295,2014,7973,ANA.TAQ.001.035,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+296,2014,7974,ANA.TAQ.001.035,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+304,2014,7733,ANA.TAQ.001.036,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+305,2014,7734,ANA.TAQ.001.036,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+327,2014,7880,ANA.TAQ.001.042,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+328,2014,7881,ANA.TAQ.001.042,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+329,2014,7882,ANA.TAQ.001.042,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+340,2014,7883,ANA.TAQ.001.044,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+341,2014,7887,ANA.TAQ.001.044,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+342,2014,7888,ANA.TAQ.001.044,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+343,2014,7889,ANA.TAQ.001.044,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+372,2014,7747,ANA.TAQ.001.048,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+373,2014,7748,ANA.TAQ.001.048,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+374,2014,7749,ANA.TAQ.001.048,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+375,2014,7750,ANA.TAQ.001.048,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+431,2014,7902,ANA.TAQ.001.058,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+432,2014,7905,ANA.TAQ.001.058,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+433,2014,7997,ANA.TAQ.001.059,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+434,2014,8028,ANA.TAQ.001.060,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+446,2014,7399,ANA.TAQ.001.061,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+447,2014,7500,ANA.TAQ.001.061,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+448,2014,7501,ANA.TAQ.001.061,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+449,2014,7503,ANA.TAQ.001.061,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+450,2014,7807,ANA.TAQ.001.062,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+451,2014,7808,ANA.TAQ.001.062,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+452,2014,7809,ANA.TAQ.001.062,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+453,2014,7908,ANA.TAQ.001.063,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+468,2014,7906,ANA.TAQ.001.066,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+469,2014,7907,ANA.TAQ.001.066,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+470,2014,7999,ANA.TAQ.001.067,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+471,2014,8000,ANA.TAQ.001.067,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+472,2014,8001,ANA.TAQ.001.067,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+473,2014,8029,ANA.TAQ.001.068,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+483,2014,7505,ANA.TAQ.001.069,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+484,2014,7507,ANA.TAQ.001.069,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+485,2014,7520,ANA.TAQ.001.069,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+487,2014,8003,ANA.TAQ.001.071,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+506,2014,7516,ANA.TAQ.001.072,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+507,2014,7517,ANA.TAQ.001.072,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+508,2014,7519,ANA.TAQ.001.072,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+509,2014,7923,ANA.TAQ.001.073,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+510,2014,7924,ANA.TAQ.001.073,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+520,2014,7512,ANA.TAQ.001.074,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+521,2014,7513,ANA.TAQ.001.074,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+522,2014,7514,ANA.TAQ.001.074,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+523,2014,7515,ANA.TAQ.001.074,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+524,2014,7811,ANA.TAQ.001.075,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+525,2014,7812,ANA.TAQ.001.075,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+526,2014,7925,ANA.TAQ.001.076,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+539,2014,7508,ANA.TAQ.001.077,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+543,2014,7928,ANA.TAQ.001.079,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+544,2014,8004,ANA.TAQ.001.080,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+553,2014,7524,ANA.TAQ.001.081,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+554,2014,7525,ANA.TAQ.001.081,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+555,2014,7526,ANA.TAQ.001.081,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+556,2014,7527,ANA.TAQ.001.081,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+557,2014,7528,ANA.TAQ.001.081,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+559,2014,7819,ANA.TAQ.001.082,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+560,2014,7821,ANA.TAQ.001.082,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+558,2014,7818b,ANA.TAQ.001.082,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+563,2014,8022,ANA.TAQ.001.084,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+575,2014,7932,ANA.TAQ.001.086,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+576,2014,7933,ANA.TAQ.001.086,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+392,2014,7894,ANA.TAQ.001.051,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+393,2014,7896,ANA.TAQ.001.051,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+394,2014,7897,ANA.TAQ.001.051,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+428,2014,7771,ANA.TAQ.001.057,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+429,2014,7772,ANA.TAQ.001.057,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+430,2014,7773,ANA.TAQ.001.057,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+454,2014,8002,ANA.TAQ.001.064,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+464,2014,7787,ANA.TAQ.001.065,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+465,2014,7788,ANA.TAQ.001.065,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+466,2014,7789,ANA.TAQ.001.065,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+467,2014,7801,ANA.TAQ.001.065,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+486,2014,7922,ANA.TAQ.001.070,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+540,2014,7813,ANA.TAQ.001.078,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+541,2014,816,ANA.TAQ.001.078,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+542,2014,7817,ANA.TAQ.001.078,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+561,2014,7930,ANA.TAQ.001.083,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+562,2014,7931,ANA.TAQ.001.083,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+570,2014,7529,ANA.TAQ.001.085,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+571,2014,7531,ANA.TAQ.001.085,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+572,2014,7532,ANA.TAQ.001.085,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+573,2014,7533,ANA.TAQ.001.085,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+574,2014,7534,ANA.TAQ.001.085,ANA.TAQ.001,-10.307.444,-48.191.167,2014-11-17,Distrito de Taquaruçu (Palmas – TO),Ana Paula Guimarães,Fruto de Buriti,Mauritia flexuosa,Palmas,TO
+644,2015,8600,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+645,2015,8601,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+646,2015,8602,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+647,2015,8603,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+648,2015,8604,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+649,2015,8605,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+650,2015,8606,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+651,2015,8607,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+652,2015,8608,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+653,2015,8609,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+654,2015,8610,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+655,2015,8611,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+656,2015,8612,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+657,2015,8613,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+658,2015,8614,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+659,2015,8615,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+660,2015,8616,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+661,2015,8617,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+662,2015,8618,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+663,2015,8619,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+664,2015,8620,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+665,2015,8621,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+666,2015,8622,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+667,2015,8623,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+677,2015,8633,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+678,2015,8634,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+679,2015,8635,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+680,2015,8636,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+681,2015,8637,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+682,2015,8638,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+683,2015,8639,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+684,2015,8640,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+685,2015,8641,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+686,2015,8642,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+687,2015,8643,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+688,2015,8644,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+689,2015,8645,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+690,2015,8646,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+691,2015,8647,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+692,2015,8648,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+693,2015,8649,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+694,2015,8650,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+695,2015,8651,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+696,2015,8652,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+668,2015,8624,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+669,2015,8625,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+670,2015,8626,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+671,2015,8627,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+672,2015,8628,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+673,2015,8629,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+674,2015,8630,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+675,2015,8631,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+676,2015,8632,STL.CAN.001.001,STL.CAN.001,-997.865,-5.003.707,2015-01-11,"Cangucu, Pium - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Pium,TO
+697,2015,8005,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+698,2015,8006,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+699,2015,8007,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+700,2015,8008,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+701,2015,8009,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+702,2015,8010,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+703,2015,8011,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+704,2015,8012,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+705,2015,8013,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+706,2015,8014,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+707,2015,8015,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+708,2015,8016,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+709,2015,8017,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+710,2015,8018,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+711,2015,8019,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+712,2015,8020,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+713,2015,8021,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+714,2015,8030,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+715,2015,8031,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+716,2015,8032,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+717,2015,8033,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+718,2015,8034,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+719,2015,8035,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+720,2015,8036,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+721,2015,8037,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+722,2015,8038,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+723,2015,8039,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+724,2015,8040,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+725,2015,8041,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+726,2015,8042,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+727,2015,8043,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+728,2015,8044,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+731,2015,8047,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+732,2015,8048,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+733,2015,8049,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+734,2015,8050,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+735,2015,8056,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+736,2015,8057,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+737,2015,8058,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+738,2015,8059,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+739,2015,8060,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+740,2015,8061,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+741,2015,8062,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+742,2015,8063,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+743,2015,8064,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+744,2015,8065,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+745,2015,8067,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+729,2015,8045,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+730,2015,8046,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+746,2015,8071,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+747,2015,8072,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+748,2015,8073,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+749,2015,8074,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+750,2015,8075,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+751,2015,8076,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+752,2015,8077,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+753,2015,8078,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+754,2015,8079,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+755,2015,8080,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+756,2015,8081,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+757,2015,8082,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+758,2015,8083,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+759,2015,8084 (A),STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+760,2015,8084 (B),STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+761,2015,8085,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+762,2015,8086,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+763,2015,8087,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+764,2015,8088,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+765,2015,8089,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+766,2015,8090,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+767,2015,8091,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+768,2015,8092,STL.NAT.001.001,STL.NAT.001,-1.130.757,-4.763.389,2015-01-11,Natividade - TO,Stella Barros,Folha de Babaçu,Attalea speciosa,Chapada da Natividade,TO
+634,2015,7796,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+599,2015,7581,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+582,2015,7564,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+583,2015,7565,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+584,2015,7566,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+585,2015,7567,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+586,2015,7568,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+587,2015,7569,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+588,2015,7570,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+589,2015,7571,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+590,2015,7572,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+591,2015,7573,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+592,2015,7574,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+593,2015,7575,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+594,2015,7576,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+595,2015,7577,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+596,2015,7578,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+597,2015,7579,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+598,2015,7580,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+601,2015,7583,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+602,2015,7584,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+603,2015,7585,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+604,2015,7593,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+605,2015,7594,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+606,2015,7595,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+607,2015,7596,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+608,2015,7597,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+609,2015,7598,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+610,2015,7599,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+611,2015,7700,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+612,2015,7701,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+613,2015,7702,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+614,2015,7703,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+615,2015,7704,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+616,2015,7705,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+617,2015,7706,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+618,2015,7707,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+619,2015,7708,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+620,2015,7709,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+621,2015,7710,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+622,2015,7711,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+623,2015,7712,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+624,2015,7713,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+625,2015,7787,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+626,2015,7788,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+627,2015,7789,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+628,2015,7790,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+629,2015,7791,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+630,2015,7792,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+631,2015,7793,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+632,2015,7794,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+633,2015,7795,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+635,2015,7797,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+636,2015,7874,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+637,2015,7875,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+638,2015,7884,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+639,2015,7885,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+640,2015,7886,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+641,2015,7912,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+642,2015,7913,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+643,2015,7914,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+600,2015,7582,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+577,2015,7559,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+578,2015,7560,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+579,2015,7561,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+580,2015,7562,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
+581,2015,7563,STL.TAQ.001.001,STL.TAQ.001,-1.031.507,-4.815.651,2015-01-11,"Distrito de Taquarucu, Palmas - TO",Stella Barros,Folha de Babaçu,Attalea speciosa,Palmas,TO
