@@ -1,6 +1,9 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+.virtual_documents
+*/.virtual_documents/*
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
