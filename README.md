@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="data/kdd_process.jpg" alt="KDD process" width="737" height="339">
+    <img src="img/kdd_process.jpg" alt="KDD process" width="737" height="339">
   </a>
 
   <h3 align="center">Descoberta de Conhecimento em Base de Dados de Fungos</h3>
