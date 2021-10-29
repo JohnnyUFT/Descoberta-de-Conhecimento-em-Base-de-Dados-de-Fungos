@@ -1,7 +1,7 @@
 ## Disciplina de Projeto Graduação I e II
-### Orientador: Prof. Drº Ary Henrique de Morais
-### Coorientadora: Prof. Drª Glenda Michele Botelho
-### Especialista: Prof. Drª Paula Benevides de Morais
+#### Orientador: Prof. Drº Ary Henrique de Morais
+#### Coorientadora: Prof. Drª Glenda Michele Botelho
+#### Especialista: Prof. Drª Paula Benevides de Morais
 
 <!-- PROJECT SHIELDS -->
 <!--
