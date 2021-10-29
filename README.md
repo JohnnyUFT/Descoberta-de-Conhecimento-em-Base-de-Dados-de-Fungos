@@ -63,20 +63,30 @@ Alguns dos arquivos *ipynb* existem apenas em função de testar algumas funcion
 ##### Os dados em *.csv* estão todos na pasta *data/* e são essenciais para o funcionamento dos notebooks do Jupyter.
 
 ### Instruções para instalação de pacotes:
-Recomendamos fortemente o uso do gerenciador de pacotes [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) para instalação dos pacotes contidos no arquivo *requirements.txt*
+Este projeto roda por meio de conteinerização dos serviços do [Jupyter Lab](https://jupyter.org/), por meio do uso do Docker. Todas os pacotes necessários para o funcionamento desse projeto estão na imagem [jupyter/datascience-notebook](https://hub.docker.com/r/jupyter/datascience-notebook/) salvo as bibliotecas presentes no arquivo *requirements.txt*. -- Essas bibliotecas no arquivos *requirements.txt* somam-se áquelas já presentes na imagem do jupyter/datascience-notebook dando ainda mais poder ao projeto como um todo.
 
-A instalação pode ser feita um pacote por vez:
+Caso não queira ou não possa usar o Docker, recomendamos fortemente o uso do gerenciador de pacotes [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) para instalação dos pacotes contidos no arquivo *requirements.txt* e as demais bibliotecas presentes nas primeiras células de cada notebook.
+
+A título de exemplo:
 
 ```sh
 $ conda install pandas
-$ conda install networkx
-$ conda install bokeh
+$ conda install seaborn
+$ conda install scikit-learn
 ```
-ou simplesmente criando um ambiente virtual e instalando todos os pacotes a partir do arquivo *requirements.txt*:
+
+Para utilização do Docker, navegue até a raiz do projeto através do terminal e digite os seguintes comandos:
 ```sh
-$ conda create --name <escolha-nome-do-ambiente> --file requirements.txt
-$ conda activate <nome-do-ambiente-escolhido-anteriormente>
+# construção da imagem, inclusive adicionando bibliotecas presentes no arquivo requirements.txt
+$ docker build --rm -t jupyter/my-datascience-notebook .
+
+# levantar os serviços do jupyter notebook
+$ docker-compose up -d
+
+# derrubar o serviço do container do jupyter
+$ docker-compose down
 ```
+
 
 ## Contributing
 *Pull Requests* são sempre bem vindos. Para maiores alterações, favor abrir uma *issue* para discussão do que gostaria de ser adicionado/alterado/removido.
