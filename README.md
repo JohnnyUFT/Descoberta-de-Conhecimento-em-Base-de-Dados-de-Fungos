@@ -58,24 +58,9 @@ O principal objetivo deste projeto é realizar o processo de descoberta de conhe
 Sobre o projeto e sua estrutura:
 Alguns dos arquivos *ipynb* existem apenas em função de testar algumas funcionalidades das bibliotecas utilizadas nesse Trabalho.
 
-##### Para ver o arquivo definitivo do trabalho, abra o **Covid19.ipynb** que está na raiz do projeto. Caso tenha dificuldades em abrir o arquivo direto pelo GitHub, tente copiar a URL do mesmo e colar no site [NbViewer](https://nbviewer.jupyter.org/).
+##### Para ver o arquivo definitivo do trabalho, abra o **01.pre-processamento.ipynb**, **02.processamento.ipynb**, **03.pos-processamento.ipynb** que estão na raiz do projeto. Caso tenha dificuldades em abrir o arquivo direto pelo GitHub, tente copiar a URL do mesmo e colar no site [NbViewer](https://nbviewer.jupyter.org/).
 
-##### Os dados em *.csv* estão todos na pasta *data/* e são essencialmente partes do arquivo original (salvo alterações diminutas) baixado na plataforma do Governo Federal.
-
-
-
-### Links importantes:
-[Stanford Dataset Collection](http://snap.stanford.edu/data/)
-
-[Base de Dados Covid-19 do SUS](https://covid.saude.gov.br/). Mais informações em [SUS Analítico](https://susanalitico.saude.gov.br/).
-
-[Instituto Nacional de Pesquisas Espaciais](http://www.inpe.br/).
-
-
-### Destaques:
-- 
--
--
+##### Os dados em *.csv* estão todos na pasta *data/* e são essenciais para o funcionamento dos notebooks do Jupyter.
 
 ### Instruções para instalação de pacotes:
 Recomendamos fortemente o uso do gerenciador de pacotes [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/) para instalação dos pacotes contidos no arquivo *requirements.txt*
