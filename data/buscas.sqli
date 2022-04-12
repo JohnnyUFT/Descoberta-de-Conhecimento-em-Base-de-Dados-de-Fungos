@@ -1,0 +1,128 @@
+-- atualiza o codigo da cidade trocando Chapada da Natividade (5461) por Natividade (5506):
+update fungos_coleta set cidade_id = 5506 where cidade_id = 5461;
+
+-- encontra o total de isolados de Babacu no Cangucu, Pium - TO
+select count(fi.ccr_codigo) from fungos_coleta as fc
+inner join fungos_amostra as fa
+on fc.id = fa.coleta_id
+inner join fungos_isolado as fi
+on fa.id = fi.amostra_id
+where fc.substrato_id = 2 and fc.cidade_id = 5526;
+
+-- total de experimentados em reacoes:
+select count(distinct isolado_id) from fungos_reacao as fr;
+
+-- total de isolados distintos com indice de similaridade >= 99:
+select count(distinct isolado_id) from fungos_infogenetica where similaridade_indice >= 99;
+
+-- mostra qtd de isolados distintos que sao de substrato Buriti, de Nova Xavantina
+-- e que foram experimentados em reacoes:
+select count(distinct fi.ccr_codigo) from fungos_coleta as fc
+inner join fungos_amostra as fa
+on fc.id = fa.coleta_id
+inner join fungos_isolado as fi
+on fa.id = fi.amostra_id
+inner join fungos_reacao as fr
+on fr.isolado_id = fi.id
+where fc.substrato_id = 1 and fc.cidade_id = 1429;
+
+-- mostra qtd isolados Buriti, de Nova Xavantina, que tenham indice similaridade >= 99:
+select count(distinct fi.ccr_codigo) from fungos_coleta as fc
+inner join fungos_amostra as fa
+on fc.id = fa.coleta_id
+inner join fungos_isolado as fi
+on fa.id = fi.amostra_id
+inner join fungos_infogenetica as fi2
+on fi2.isolado_id = fi.id
+where fc.substrato_id = 1 and fc.cidade_id = 1429 and fi2.similaridade_indice >= 99;
+
+-- inicio da formacao da tabela de isolados denormalizada (com info sobre se tem reacoes e se tem info genetica): 
+select distinct on (fi.ccr_codigo) fi.ccr_codigo, fi2.similaridade_indice, fi2.database_internacional from fungos_coleta as fc
+inner join fungos_amostra as fa
+on fc.id = fa.coleta_id
+inner join fungos_isolado as fi
+on fa.id = fi.amostra_id
+inner join fungos_infogenetica as fi2
+on fi2.isolado_id = fi.id
+where fc.substrato_id = 1 or fc.substrato_id = 2
+ORDER  BY fi.ccr_codigo, fi2.similaridade_indice DESC NULLS LAST;
+
+-- isso aqui seleciona um isolado_id distinto e sua respectiva linha (demais colunas):
+-- com destaque para o trecho: 'where fi.similaridade_indice >= 99' tem mais esse filtro aplicado aí: 
+select *
+from (
+   select *,
+          row_number() over (partition by fi.isolado_id order by fi.isolado_id) as row_number
+   from fungos_infogenetica fi where fi.similaridade_indice >= 99 order by fi.isolado_id asc
+   ) as rows
+where row_number = 1;
+
+-- tras o id e ccr_codigo dos isolados que possuem reacoes no grupo de Fermentacoes (grupo 5)
+select distinct(fi.id), fi.ccr_codigo from fungos_isolado fi 
+inner join fungos_reacao fr 
+on fi.id = fr.isolado_id 
+inner join fungos_composto fc 
+on fr.composto_id = fc.id 
+where fc.grupo_composto_id = 5;
+
+
+-- retorna todos os isolados que possuem reacoes com quaisquer compostos que nao pertecam ao grupo 5 (Fermentacao) ou 6 (Temperatura):
+select distinct(fi.id), fi.ccr_codigo from fungos_isolado fi 
+inner join fungos_reacao fr 
+on fi.id = fr.isolado_id 
+inner join fungos_composto fc 
+on fr.composto_id = fc.id 
+where fc.grupo_composto_id <> 5 and fc.grupo_composto_id <> 6;
+
+-- seleciona todos os ccr que tenham inicio como '78xx' e ordena o resultado
+select * from fungos_isolado fi 
+where ccr_codigo like '78%'
+order by ccr_codigo asc;
+
+-- retorna os ccrs repetidos na base e o numero de vezes em que se repetem:
+select fi.ccr_codigo, count(ccr_codigo) from fungos_isolado fi 
+group by ccr_codigo 
+having count(ccr_codigo) > 1;
+
+
+-- com isso podemos confirmar que alguns compostos nao possuem registros de reacoes
+select * from fungos_reacao fr
+where composto_id  in 
+( 29, 47, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 70, 71, 72, 73, 74, 75, 76, 77 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--
