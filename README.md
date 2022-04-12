@@ -3,16 +3,6 @@
 #### Coorientadora: Prof. Drª Glenda Michele Botelho
 #### Especialista: Prof. Drª Paula Benevides de Morais
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -24,7 +14,7 @@
   <h3 align="center">Descoberta de Conhecimento em Base de Dados de Fungos</h3>
 
   <p align="center">
-    Uma parceria Instituto de Computação Aplicada, Fábrica de Software e Laboratório de Microbiologia UFT
+    Uma parceria Instituto de Computação Aplicada, Fábrica de Software e Laboratório de Microbiologia e Biotecnologia UFT
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a> -->
     <!-- <br /> -->
@@ -38,7 +28,7 @@
 </p>
 
 ### Proposta do Trabalho:
-A partir de uma base de dados integrada com informações sobre fungos leveduriformes coletadas em regigões de cerrado (estados do Tocantins e Mato Grosso) seria possível agrupar essas leveduras a partir de alguma característica em comum?
+A partir de uma base de dados integrada com informações sobre fungos leveduriformes coletadas em regiões de cerrado (estados do Tocantins e Mato Grosso) seria possível agrupar essas leveduras a partir de alguma característica em comum?
 
 Os fungos são organismos que por anos foram confundidos com plantas. Entretanto, esses possuem características tão peculiares que foram agrupados em um reino a parte: o Reino Fungi. Considerando a importância dos fungos já descobertos e a imensa quantidade ainda por catalogar, este trabalho visa caracterizar diferenças e semelhanças de fungos leveduriformes encontrados em frutos de Buriti e folhas de Babaçu, na região dos estados do Tocantins e Mato Grosso. Tal estudo tem por objetivo aplicar técnicas e procedimentos de Descoberta de Conhecimento que seja útil e compreensível a partir da aplicação iterativa e interativa da metodologia *KDD*. Dessa forma, expõe-se algumas das fases do processo *KDD* sob a percepção de que este é amplamente utilizado pela comunidade acadêmica.
 
@@ -95,4 +85,4 @@ $ docker-compose down
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ### Palavras-chaves:
-*KDD*, *Descoberta de Conhecimento*, *Fungos Leveduriformes*, *Clustering*, *Algoritmos de Agrupamento*
+*KDD*, *Descoberta de Conhecimento*, *Fungos Leveduriformes*, *Clustering*, *Cluster Analysis*, *Algoritmos de Agrupamento*
